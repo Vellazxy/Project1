@@ -55,14 +55,14 @@ body{
 .rec1{
 	width: 11.5vw;
 	height: 9.5vw;
-	background-color: #DB3535;
+	background-color: grey;
 }
 
 .rec2{
 	position: relative;
 	width: 9vw;
 	height: 5vw;
-	background-color: #807070;
+	background-color: darkgrey;
 	top:-8.5vw;
 	left:1.5vw;
 }
@@ -71,7 +71,7 @@ body{
 	position: relative;
 	width: 6.9vw;
 	height: 2vw;
-	background-color: #DE615D;
+	background-color: grey;
 	top:-11vw;
 	left:2.4vw;
 }
@@ -80,7 +80,7 @@ body{
 	position: relative;
 	width: 5.5vw;
 	height: 1vw;
-	background-color: #DB3535;
+	background-color: white;
 	top:-12.5vw;
 	left:3vw;
 }
@@ -302,85 +302,85 @@ body{
 .st1{
 	position: relative;
 	width: 0.9vw;
-	height:10vw;
+	height:13vw;
 	background-color: #B099E8;
-	top:-9vw;
-	left:1vw;
-	transform:rotate(-5deg);
+	top:-15vw;
+	left:5vw;
+	transform:rotate(-95deg);
 }
 
 .st1:hover{
-	transform: rotate(2deg);
+	transform: rotate(-90deg);
 }
 
 .st2{
 	position: relative;
 	width: 0.9vw;
-	height:10.2vw;
+	height:13vw;
 	background-color: #B099E8;
-	top:-20vw;
-	left:2.5vw;
-	transform:rotate(-2deg);
+	top:-26.5vw;
+	left:5vw;
+	transform:rotate(-92deg);
 }
 
 .st2:hover{
-	transform: rotate(4deg);
+	transform: rotate(-86deg);
 }
 
 .st3{
 	position: relative;
 	width: 0.9vw;
-	height:10.2vw;
+	height:13vw;
 	background-color: #B099E8;
-	top:-30vw;
-	left:4vw;
-	transform:rotate(0deg);
+	top:-38vw;
+	left:5vw;
+	transform:rotate(-92deg);
 }
 
 .st3:hover{
-	transform: rotate(-3deg);
+	transform: rotate(-94deg);
 }
 
 .st4{
 	position: relative;
 	width: 0.9vw;
-	height:10.2vw;
+	height:13vw;
 	background-color: #B099E8;
-	top:-40vw;
-	left:5.5vw;
-	transform:rotate(3deg);
+	top:-49vw;
+	left:5vw;
+	transform:rotate(91deg);
 }
 
 .st4:hover{
-	transform: rotate(-1deg);
+	transform: rotate(-91deg);
 }
 
 .st5{
 	position: relative;
 	width: 0.9vw;
-	height:10.2vw;
+	height:13vw;
 	background-color: #B099E8;
-	top:-50.5vw;
-	left:7vw;
-	transform:rotate(-3deg);
+	top:-60vw;
+	left:5vw;
+	transform:rotate(-93deg);
 }
 
 .st5:hover{
-	transform: rotate(0deg);
+	transform: rotate(-90deg);
 }
 
-.st6{
+/*.st6{
 	position: relative;
 	width: 0.9vw;
 	height:10.2vw;
 	background-color: #B099E8;
-	top:-60vw;
-	left:8.5vw;
-	transform:rotate(-1deg);
+	top:-58vw;
+	left:4vw;
+	transform:rotate(-91deg);
 }
 
 .st6:hover{
-	transform: rotate(2deg);
+	transform: rotate(89deg);
 }
 
 .st7{
@@ -388,15 +388,15 @@ body{
 	width: 0.9vw;
 	height:10.2vw;
 	background-color: #B099E8;
-	top:-71vw;
-	left:10vw;
-	transform:rotate(2deg);
+	top:-67vw;
+	left:4vw;
+	transform:rotate(92deg);
 }
 
 .st7:hover{
-	transform: rotate(5deg);
+	transform: rotate(95deg);
 }
-
+*/
 
 
 

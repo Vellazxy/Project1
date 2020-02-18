@@ -1,0 +1,74 @@
+body{
+	background-color: darkgrey;
+	background:repeating-linear-gradient(
+		white,
+	    white 1vw,
+	    grey 1vw,
+	    grey 2vw
+		);
+}
+
+.flexbox{
+	display: flex;
+	justify-content: center;
+	align-items: flex-end;
+	margin-top: 2.5vw;
+	font-family: 'Playfair Display', serif;
+	font-size: 0.78vw;
+}
+
+p{
+	padding-left: 1.5vw;
+	padding-right: 1.5vw;
+	padding-top: 1vw;
+	color:grey;
+}
+
+.block1{
+	/*border:0.5vw solid grey;
+	border-radius: 6%; */
+	margin:3vw;
+	width:14vw;
+	height: 45vw;
+	background-color: white;
+	box-shadow: 2vw 2vw 1vw grey;
+	display: flex;
+	align-items: flex-end;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.block2{
+	margin:2vw;
+	background-color: grey;
+	width:10vw;
+	height: 2vw;
+	display: flex;
+	align-items: flex-end;
+	flex-direction: column;
+	justify-content: space-between;
+	transition: width 1s ease;
+}
+
+.block3{
+	margin:3vw;
+	width:14vw;
+	height: 20vw;
+	background-color: white;
+	box-shadow: 2vw 2vw 1vw grey;
+	display: flex;
+	align-items: flex-end;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.block4{
+	margin:2vw;
+	background-color: grey;
+	width:10vw;
+	height: 2vw;
+}
+
+.block2:hover{
+	width:5vw;
+}

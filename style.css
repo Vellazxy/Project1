@@ -49,6 +49,10 @@ img{
   animation: bounce 1s infinite;
 }
 
+.img5 img:hover{
+	border-radius: 0%;
+}
+
 .img6 img:hover{
 	border-radius: 0%;
 }
@@ -62,10 +66,10 @@ img{
 }
 
 .circle1{
-	background-color: black;
-	position: relative;
-	top: -120px;
-	left:50px;
+	background-color: #FF96C1;
+	position: absolute;
+	top:25vw;
+	left:47.3vw;
 	width: 80px;
 	height: 80px;
 	border-radius: 50%;
@@ -91,6 +95,10 @@ img{
 
 .img13 img:hover{
 	animation: spin 0.5s infinite;
+}
+
+.img14 img:hover{
+	border-radius: 0%;
 }
 
 .img15 img:hover{
